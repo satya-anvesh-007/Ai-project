@@ -240,7 +240,7 @@ export const AssessmentView = ({ initialData, onSubmit }) => {
                 <input
                   type="text"
                   value={newSubName}
-                  placeholder="e.g. Operating Systems"
+                  placeholder="Subject Name"
                   onChange={(e) => setNewSubName(e.target.value)}
                   onKeyDown={(e) => {
                     if (e.key === 'Enter') {
