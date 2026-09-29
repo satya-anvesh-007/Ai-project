@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Advisor",
+  "description": "A Rule-Based Academic Expert System that analyzes student performance and provides explainable academic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
