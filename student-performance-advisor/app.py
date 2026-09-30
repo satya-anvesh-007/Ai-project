@@ -212,7 +212,7 @@ with st.sidebar:
         st.info("No assessment conducted yet. Go to 'Analyze' to begin.")
 
     st.markdown("---")
-    st.markdown("**Made by ANVESH & KIRAN**")
+    st.markdown("**Made by ANVESH & KIRAN & HARSHA**")
 
 
 # ---------------------------------------------------------
@@ -756,4 +756,4 @@ elif st.session_state.nav_page == "About":
     ```
     """)
     st.markdown("---")
-    st.markdown("**Made by ANVESH & KIRAN**")
+    st.markdown("**Made by ANVESH & KIRAN & HARSHA**")

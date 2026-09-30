@@ -103,7 +103,7 @@ export const AboutView = () => {
           Rule-Based AI • Python • Streamlit. No database, no authentication, no external AI APIs.
         </p>
         <p className="text-xs font-bold text-slate-900 mt-2">
-          Made by ANVESH & KIRAN
+          Made by ANVESH & KIRAN & HARSHA
         </p>
       </div>
     </div>

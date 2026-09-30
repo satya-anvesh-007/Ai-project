@@ -94,7 +94,7 @@ export const Sidebar = ({ currentTab, onSelectTab, assessment }) => {
           Rule-Based Academic Expert System
         </div>
         <div className="text-xs font-bold text-slate-900 mt-1">
-          Made by ANVESH & KIRAN
+          Made by ANVESH & KIRAN & HARSHA
         </div>
       </div>
     </aside>
